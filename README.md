@@ -82,12 +82,6 @@ flutter run
 
 ---
 
-## 💡 Screenshots (Optional)
-
-> Include screenshots or screen recordings here to showcase the UI/UX.
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
